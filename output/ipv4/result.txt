@@ -1,24 +1,20 @@
 🕘️更新时间,#genre#
-2026-01-03 06:23:59,http://39.152.103.17:8089/tsfile/live/1009_1.m3u8
+2026-01-03 18:24:09,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-10,http://39.152.103.17:8089/tsfile/live/1009_1.m3u8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-北京卫视,http://btjg.net:809/hls/43/index.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
-江苏卫视,http://27.41.245.32:801/hls/42/index.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-天津卫视,http://39.152.103.17:8089/tsfile/live/1035_1.m3u8
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 
 ☘️广东频道,#genre#
@@ -26,6 +22,7 @@ CCTV-10,http://39.152.103.17:8089/tsfile/live/1009_1.m3u8
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 
 ☘️浙江频道,#genre#
+浙江新闻,http://101.66.199.34:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️北京频道,#genre#
 北京新闻,http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -109,6 +106,8 @@ CCTV-10,http://39.152.103.17:8089/tsfile/live/1009_1.m3u8
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+金鹰卡通,http://101.66.199.34:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.199.211:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎮游戏频道,#genre#
 
