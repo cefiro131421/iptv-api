@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-01-04 18:23:02,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8
+2026-01-05 06:22:08,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8
 
 💰央视付费频道,#genre#
 
@@ -71,8 +70,8 @@ CCTV-6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8
 嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 张掖新闻综合,https://play.kankanlive.com/live/1720583434627241.m3u8
 永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
-白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
+白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
 
 ☘️新疆频道,#genre#
@@ -106,7 +105,6 @@ CCTV-6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-金鹰卡通,http://101.66.199.211:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎮游戏频道,#genre#
 
