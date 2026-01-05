@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-05 06:22:08,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-01-05 18:28:13,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📺央视频道,#genre#
 
