@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-08 06:23:38,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-01-08 18:27:52,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -98,7 +98,6 @@
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🎬电影频道,#genre#
-纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
 
 🎥咪咕直播,#genre#
 
